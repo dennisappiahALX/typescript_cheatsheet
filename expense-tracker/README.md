@@ -6,4 +6,4 @@
 - Delete items from DOM
 - Persist to local storage
 
-![alt text](public/logo512.png)
+![alt text](public/tracker.png)
